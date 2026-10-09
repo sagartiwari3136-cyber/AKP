@@ -1,0 +1,6 @@
+{
+  "name": "आज का प्रहरी (Aaj Ka Prahari - AKP News)",
+  "description": "Digital news portal for आज का प्रहरी (Aaj Ka Prahari - AKP News) featuring real-time live dispatches, national and world investigative desks, newsletter subscription portal, and an integrated newsroom CMS.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
